@@ -1,0 +1,3 @@
+# Install from the project root with: pip install -e '.[sdk]'
+rich>=13.7,<15
+rialo-cdk==0.1.0
